@@ -1,1 +1,1 @@
-# php_lektion1
+# man tvungen att updatera sida varje sekund

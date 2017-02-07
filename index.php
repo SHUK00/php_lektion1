@@ -1,8 +1,7 @@
+@@ -1,59 +0,0 @@
 <http>
 <head>
     <?php 
-    
-    $namn = $_GET['namn'];
     
     $t=time();
     
@@ -47,7 +46,7 @@
         
         
     Hej
-    <?php echo $namn; ?>
+    Kaj
         
     <br>
         
@@ -57,3 +56,4 @@
     </body>
     
 </http>
+\ No newline at end of file
